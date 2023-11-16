@@ -1,4 +1,4 @@
- A Simple Currency Exchange Service with Django
+# A Simple Currency Exchange Service with Django
  
 Create a pull request!
 ```Python
